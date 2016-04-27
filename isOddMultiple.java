@@ -39,8 +39,6 @@ class isOddMultiple {
 
 	}
 
-
-
 	public static void main(String[] args) {
 		int n = 3;
 		int p = 9;
